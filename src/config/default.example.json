@@ -1,0 +1,16 @@
+{
+    "telegram": {
+        "id": "TELEGRAM_APP_ID",
+        "hash": "TELEGRAM_APP_HASH",
+        "phone": "TELEGRAM_PHONE_NUMBER",
+        "storage": "TELEGRAM_FILE",
+        "devServer": false,
+        "msgHistory": {
+            "maxMsg": 100,
+            "limit": 50,
+        },
+        "getChat": {
+            "limit": 50
+        }
+    }
+}

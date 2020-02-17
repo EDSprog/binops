@@ -1,0 +1,16 @@
+{
+  "telegram": {
+    "id": "1068920",
+    "hash": "ff1bcd9efbda30fe5ca6c61293977688",
+    "phone": "+79788625876",
+    "storage": "./lib/storage/telegram.json",
+    "devServer": false,
+    "msgHistory": {
+      "maxMsg": 100,
+      "limit": 50,
+    },
+    "getChat": {
+      "limit": 50
+    }
+  }
+}
